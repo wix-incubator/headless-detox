@@ -6,7 +6,7 @@
 
 This project aims to provide a headless driver for the Detox end-to-end (E2E) testing framework developed by Wix. The driver enables running Detox tests in a headless environment, without the need for a device.
 
-**Note:** This project is currently a work in progress. Stay tuned for updates and exciting developments!
+**Note:** This project is currently a work in progress.
 
 For more information about Detox and its official repository, please visit [wix/detox](https://github.com/wix/detox).
 
